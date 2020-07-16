@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "超市",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 0,
+  "usingComponents": {
+    "good-list": "/components/goodList/goodList"
+  }
+}

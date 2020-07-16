@@ -1,0 +1,1 @@
+.contact .header image{width:750rpx;height:350rpx}.contact .header .detail .phone{margin-top:40rpx}.contact .header .detail view text{display:block;width:710rpx;height:100rpx;margin:0rpx 0rpx 50rpx 20rpx;border-bottom:1px solid #f0f0f0}.contact .map{margin:-20rpx 0rpx 15rpx 15rpx}

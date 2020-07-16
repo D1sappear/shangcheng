@@ -1,0 +1,1 @@
+<view class="market"><good-list vue-id="1b6f9780-1" goods="{{goods}}" data-event-opts="{{[['^navigateToGoodsDetail',[['navigateToGoodsDetail']]]]}}" bind:navigateToGoodsDetail="__e" bind:__l="__l"></good-list></view>
